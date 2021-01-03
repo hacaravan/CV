@@ -1,6 +1,6 @@
-## Your Name
+## Hugh Cavanagh
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
+I'm a (currently very) junior full stack developer in training, at the beginning of the Makers Academy software development bootcamp. I'm excited to learn and practice the soft skills and approaches used in software development, as well as hopefully growing my knowledge of Ruby and other languages fairly exponentially!
 
 ## Projects
 
@@ -11,25 +11,21 @@ A sentence about who and what you are. Then a sentence about what you've achieve
 
 ## Experience
 
-**Company Name** (start-date to end-date)  
-_Your job title_
+**Bristol Energy** (March 2017 - October 2020)  
+_Pricing Analyst/Senior Pricing Analyst_
 
-- Any experience relevent to software development
-
-**Company Name** (start-date to end-date)  
-_Your job title_
-
-- Any experience relevent to software development
+- I managed and continually developed a complex Pricing Engine that supported pricing for all our customer types, built in an Excel front-end that housed a significant amount of VBA I was also responsible for. I spent a lot of my time developing SQL (using MS SQL Server) to interact with the pricing model and produce reporting and analysis for a range of key stakeholders.
+- I worked on developing a lot of new products for all the strands of our customer base, and worked with a range of colleagues on these. I learnt how useful proper planning and speccing is, as well as how to manage colleagues' expectations - what's possible, what's realistic, and what's worth it!
 
 ## Skills
 
-Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
+Consider skills relevant to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
 
-#### This Skill
+#### Fast & Enthusiastic Learner
 
-- Experience
-- Achievements
-- Evidence
+I love learning new things - whether it be practical skills, information or random trivia. As soon as I learn something I want to put it into practice or share the information with someone.
+When I worked at Bristol Energy, I went into the role not even knowing how Excel worked properly, but by the end I regularly offered my support to my colleagues with Excel, VBA and SQL (the three tools I spent most of my time with).
+Before starting the Makers Academy course, I taught myself some introductory Java.
 
 #### Another Skill
 
@@ -42,18 +38,18 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+**Makers Academy** (January - March 2021)
 
 - OOP, TDD, MVC, DDD
 - Agile/XP
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-#### Your University / College (start_date to end_date)
+**Bristol University** (September 2013 - June 2016)
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+- BSc (Hons) Mathematics
+- I achieved a First overall
+- I particularly focused on Pure Maths (number theory, group theory and set theory were some of my favourite modules)
 
 #### Any other qualifications
 
@@ -61,4 +57,5 @@ That in some arguable way make you a better software developer or well-rounded p
 
 ## Hobbies
 
-Any cool stuff that makes you a super part of a software development team
+I'm currently in training for my first sprint triathlon so you may see me plodding the streets of Bristol or cycling the surrounding area on a bike twice my age.
+I'm a big fan of boardgames as well and have a reasonable collection of modern classics - Azul is the one I recommend most often.
