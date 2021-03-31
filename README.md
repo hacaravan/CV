@@ -1,13 +1,13 @@
 ## Hugh Cavanagh
 
-I'm a junior full stack developer and graduate of the Makers Academy software development bootcamp, ready to help out your organisation. I've spent the last few months learning and applying skills and best practices, and now I'm excited to put those to the test in the world of work.
+I'm a junior full stack developer and graduate of the Makers Academy software development bootcamp, ready to help out your organisation. I've dedicated the last few months to learning new skills - including front & backend JS, Ruby, Rails - and the best ways to code - object oriented principles, TDD, git & Github, agile working - and now I'm excited to put those to the test in the world of work.
 
 ## Projects
 
-| Name                         | Description       | Tech/tools        |
-| ---------------------------- | ----------------- | ----------------- |
-| **Final Group Project - don8** | A mobile app to connect charities which need things with volunteers who can donate time or goods | MongoDB, Express, React Native, Node.js |
-| **Something else worked on** | A webapp to do y. | Ruby              |
+| Name                         | Description       | Tech/tools        | Link
+| ---------------------------- | ----------------- | ----------------- |------
+| **Final Group Project - don8** | A mobile app to connect charities which need things with volunteers who can donate time or goods | MongoDB, Express, React Native, Node.js | [Github Repo](https://github.com/JoshSinyor/don8)
+| **Spacebook** | A space-themed 'clone' of Facebook | Ruby on Rails, JS, CSS, CI/CD using Travis, Postgres | [Github Repo](https://github.com/SalarGhotaslo/acebook-sholk), [hosted app](https://fierce-plains-18412.herokuapp.com)
 
 ## Experience
 
