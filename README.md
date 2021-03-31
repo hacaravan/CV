@@ -1,12 +1,12 @@
 ## Hugh Cavanagh
 
-I'm a (currently very) junior full stack developer in training, at the beginning of the Makers Academy software development bootcamp. I'm excited to learn and practice the soft skills and approaches used in software development, as well as hopefully growing my knowledge of Ruby and other languages fairly exponentially!
+I'm a junior full stack developer and graduate of the Makers Academy software development bootcamp, ready to help out your organisation. I've spent the last few months learning and applying skills and best practices, and now I'm excited to put those to the test in the world of work.
 
 ## Projects
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
-| **Final project**            | A webapp to do x. | React, Jest, etc. |
+| **Final Group Project - don8** | A mobile app to connect charities which need things with volunteers who can donate time or goods | MongoDB, Express, React Native, Node.js |
 | **Something else worked on** | A webapp to do y. | Ruby              |
 
 ## Experience
