@@ -11,15 +11,25 @@ I'm a junior full stack developer and graduate of the Makers Academy software de
 
 ## Experience
 
+**Makers Academy** (January - March 2021)  
+_Software Development Bootcamp_
+
+- Intense 16 week software development course, with multiple group, pair, and individual projects.
+- Strong focus on collaborative working to produce clean, reusable code.
+- Mainly using Javascript & Ruby, including React Native, Node.js and Rails.
+- Further coverage of databases, both relational (Postgres) and non-relational (MongoDB).
+- Concentration on TDD using several testing frameworks - Jasmine, Jest, RSpec, Sinatra, Capybara.
+- Many best practices and principles covered, including OOP, RESTful routing, agile working and MVC pattern
+
 **Bristol Energy** (March 2017 - October 2020)  
 _Pricing Analyst/Senior Pricing Analyst_
 
 - I managed and continually developed a complex Pricing Engine that supported pricing for all our customer types, built in an Excel front-end that housed a significant amount of VBA I was also responsible for. I spent a lot of my time developing SQL (using MS SQL Server) to interact with the pricing model and produce reporting and analysis for a range of key stakeholders.
 - I worked on developing a lot of new products for all the strands of our customer base, and worked with a range of colleagues on these. I learnt how useful proper planning and speccing is, as well as how to manage colleagues' expectations - what's possible, what's realistic, and what's worth it!
 
+
 ## Skills
 
-Consider skills relevant to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
 
 #### Fast & Enthusiastic Learner
 
@@ -32,32 +42,16 @@ Before starting the Makers Academy course, I taught myself some introductory Jav
 When encountering a problem - from small error messages to more complex interactions - I always try to approach it as logically as possible, to work out _how_ to solve it before diving into it. By thinking about _why_ something is or isn't working, I'm able to narrow down a larger problem to a much more specific one. This was noted in one of the external reviews I did while a Makers student, where the reviewer said:
 >You did a really good job with being able to read the important information in the backtrace and were able to identify where errors were occurring and what kind of error it was, this meant that for the most part you could interpret what the problem was by using that information and you did not try random changes to the code in order to fix the bugs.
 
-#### Another Skill
-
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
-
 ## Education
-
-**Makers Academy** (January - March 2021)  
-_Software Development Bootcamp_
-
-- Intense 16 week software development course, with multiple group, pair, and individual projects.
-- Strong focus on collaborative working to produce clean, reusable code.
-- Mainly using Javascript & Ruby, including React Native, Node.js and Rails.
-- Further coverage of databases, both relational (Postgres) and non-relational (MongoDB).
-- Concentration on TDD using several testing frameworks - Jasmine, Jest, RSpec, Sinatra, Capybara.
-- Many best practices and principles covered, including OOP, RESTful routing, agile working and MVC pattern
 
 **Bristol University** (September 2013 - June 2016)
 
 - BSc (Hons) Mathematics
 - I achieved a First overall
 - I particularly focused on Pure Maths (number theory, group theory and set theory were some of my favourite modules)
+
+**A-Levels** (September 2011 - June 2013)
+- Maths (A\*), Further Maths (A\*), Chemistry (A\*), German (A)
 
 ## Hobbies
 
