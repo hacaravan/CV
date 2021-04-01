@@ -1,12 +1,12 @@
 ## Hugh Cavanagh
 
-I'm a junior full stack developer and graduate of the Makers Academy software development bootcamp, ready to help out your organisation. I've dedicated the last few months to learning new skills - including front & backend JS, Ruby, Rails - and the best ways to code - object oriented principles, TDD, git & Github, agile working - and now I'm excited to put those to the test in the world of work.
+I'm a junior full stack developer and graduate of the Makers Academy software development bootcamp, ready to help improve your organisation! I've dedicated the last few months to learning new skills - including front & backend JS, Ruby, Rails - and the best ways to code - object oriented principles, TDD, git & Github, agile working - and now I'm excited to put those to the test in the world of work.
 
 ## Projects
 
 | Name                         | Description       | Tech/tools        | Link
 | ---------------------------- | ----------------- | ----------------- |------
-| **Final Group Project - don8** | A mobile app to connect charities which need things with volunteers who can donate time or goods | MongoDB, Express, React Native, Node.js | [Github Repo](https://github.com/JoshSinyor/don8)
+| **don8** | A mobile app to connect charities which need things with volunteers who can donate time or goods | MongoDB, Express, React Native, Node.js | [Github Repo](https://github.com/JoshSinyor/don8)
 | **Spacebook** | A space-themed 'clone' of Facebook | Ruby on Rails, JS, CSS, CI/CD using Travis, Postgres | [Github Repo](https://github.com/SalarGhotaslo/acebook-sholk), [hosted app](https://fierce-plains-18412.herokuapp.com)
 
 ## Experience
@@ -27,6 +27,11 @@ I love learning new things - whether it be practical skills, information or rand
 When I worked at Bristol Energy, I went into the role not even knowing how Excel worked properly, but by the end I regularly offered my support to my colleagues with Excel, VBA and SQL (the three tools I spent most of my time with).
 Before starting the Makers Academy course, I taught myself some introductory Java.
 
+#### Logical Problem Solver
+
+When encountering a problem - from small error messages to more complex interactions - I always try to approach it as logically as possible, to work out _how_ to solve it before diving into it. By thinking about _why_ something is or isn't working, I'm able to narrow down a larger problem to a much more specific one. This was noted in one of the external reviews I did while a Makers student, where the reviewer said:
+>You did a really good job with being able to read the important information in the backtrace and were able to identify where errors were occurring and what kind of error it was, this meant that for the most part you could interpret what the problem was by using that information and you did not try random changes to the code in order to fix the bugs.
+
 #### Another Skill
 
 Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
@@ -38,22 +43,21 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Education
 
-**Makers Academy** (January - March 2021)
+**Makers Academy** (January - March 2021)  
+_Software Development Bootcamp_
 
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
+- Intense 16 week software development course, with multiple group, pair, and individual projects.
+- Strong focus on collaborative working to produce clean, reusable code.
+- Mainly using Javascript & Ruby, including React Native, Node.js and Rails.
+- Further coverage of databases, both relational (Postgres) and non-relational (MongoDB).
+- Concentration on TDD using several testing frameworks - Jasmine, Jest, RSpec, Sinatra, Capybara.
+- Many best practices and principles covered, including OOP, RESTful routing, agile working and MVC pattern
 
 **Bristol University** (September 2013 - June 2016)
 
 - BSc (Hons) Mathematics
 - I achieved a First overall
 - I particularly focused on Pure Maths (number theory, group theory and set theory were some of my favourite modules)
-
-#### Any other qualifications
-
-That in some arguable way make you a better software developer or well-rounded person
 
 ## Hobbies
 
