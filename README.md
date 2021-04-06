@@ -8,8 +8,8 @@
 I'm a junior full stack developer and graduate of the Makers Academy software development bootcamp, ready to help improve your organisation! I've dedicated the last few months to learning new skills - including front & backend JS, Ruby, Rails - and the best ways to code - object oriented principles, TDD, git & Github, agile working - and now I'm excited to put those to the test in the world of work.
 
 <div align=center>
-<img src=https://github-readme-stats.vercel.app/api?username=hacaravan&show_icons=true&theme=tokyonight&hide=stars height=100% style="margin-bottom:5%" />
-<img src=https://github-readme-stats.vercel.app/api/top-langs/?username=hacaravan&theme=tokyonight&hide_title=true height=100% style="margin-right:5%; margin-bottom:5%"/>
+<img src=https://github-readme-stats.vercel.app/api?username=hacaravan&show_icons=true&theme=tokyonight&hide=stars height=10% />
+<img src=https://github-readme-stats.vercel.app/api/top-langs/?username=hacaravan&theme=tokyonight&hide_title=true height=10%/>
 </div>
 
 ## Projects
