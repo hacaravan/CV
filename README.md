@@ -1,6 +1,7 @@
 <h1 align="center">Hugh Cavanagh</h1>
 <div align="center">
-<a href="https://www.linkedin.com/in/hugh-cavanagh-76a5b3119/"><img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" alt="linkedin" /> </a>Check out my LinkedIn® Profile!<br><br>
+<a href="https://www.linkedin.com/in/hugh-cavanagh-76a5b3119/"><img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" alt="linkedin" height=42px width=42px/> </a>
+<br><br>
 
 [Projects](#projects) | [Experience](#experience) | [Skills](#skills) | [Education](#education) | [Hobbies](#hobbies)
 
