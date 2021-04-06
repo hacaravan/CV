@@ -1,5 +1,6 @@
 <h1 align="center">Hugh Cavanagh</h1>
 <div align="center">
+<a href="https://www.linkedin.com/in/hugh-cavanagh-76a5b3119/"><img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" alt="linkedin" hspace="50" height="42" width="42" /> </a><br><br>
 
 [Projects](#projects) | [Experience](#experience) | [Skills](#skills) | [Education](#education) | [Hobbies](#hobbies)
 
@@ -27,7 +28,7 @@ _Software Development Bootcamp_
 - An intense but very enjoyable 16 week software development course, with multiple group, pair, and individual projects.
 - Strong focus on collaborative working to produce clean, reusable code.
 - Mainly using Javascript & Ruby, including React Native, Node.js and Rails, picking all of these up from scratch.
-- Further coverage of databases, both relational (Postgres) and non-relational (MongoDB).
+- Further coverage of databases, both relational (PostgreSQL) and non-relational (MongoDB).
 - Concentration on TDD using several testing frameworks - Jasmine, Jest, RSpec, Sinatra, Capybara.
 - Many best practices and principles covered, including OOP, RESTful routing, agile working and MVC pattern
 
