@@ -16,8 +16,8 @@ I'm a junior full stack developer and graduate of the Makers Academy software de
 
 | Name                         | Description       | Tech/tools        | Link
 | ---------------------------- | ----------------- | ----------------- |------
-| **don8** | A mobile app to connect charities which need things with volunteers who can donate time or goods | MongoDB, Express, React Native, Node.js | [Github Repo](https://github.com/JoshSinyor/don8)
-| **Spacebook** | A space-themed 'clone' of Facebook | Ruby on Rails, JS, CSS, CI/CD using Travis, Postgres | [Github Repo](https://github.com/SalarGhotaslo/acebook-sholk), [hosted app](https://fierce-plains-18412.herokuapp.com)
+| **don8** | A mobile app to connect charities with people who can help them. Post adverts with what your charity needs, and volunteers can see what you need, and where!  | MongoDB, Express, React Native, Node.js | [Github Repo](https://github.com/JoshSinyor/don8)
+| **Spacebook** | A space-themed 'clone' of Facebook. Sign up and scroll through the ether to see what your fellow explorers are saying. _In Spacebook, everyone can hear you scream_ | Ruby on Rails, JS, CSS, CI/CD using Travis, Postgres | [Github Repo](https://github.com/SalarGhotaslo/acebook-sholk), [hosted app](https://fierce-plains-18412.herokuapp.com)
 
 ## Experience
 
