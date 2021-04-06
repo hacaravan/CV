@@ -9,7 +9,7 @@ I'm a junior full stack developer and graduate of the Makers Academy software de
 
 <div align=center>
 <img src=https://github-readme-stats.vercel.app/api?username=hacaravan&show_icons=true&theme=tokyonight&hide=stars height=10% />
-<img src=https://github-readme-stats.vercel.app/api/top-langs/?username=hacaravan&theme=tokyonight&hide_title=true height=10%/>
+<img src=https://github-readme-stats.vercel.app/api/top-langs/?username=hacaravan&theme=tokyonight height=10%/>
 </div>
 
 ## Projects
