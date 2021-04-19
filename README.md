@@ -68,5 +68,7 @@ When encountering a problem - from small error messages to more complex interact
 
 ## Hobbies
 
-I'm currently in training for my first sprint triathlon so you may see me plodding the streets of Bristol or cycling the surrounding area on a bike twice my age.
+**Triathlon**  
+I'm currently in training for my first sprint triathlon so you may see me plodding the streets of Bristol or cycling the surrounding area on a bike twice my age.  
+**Boardgames**  
 I'm a big fan of boardgames as well and have a reasonable collection of modern classics - Azul is the one I recommend most often.
