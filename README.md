@@ -7,7 +7,7 @@
 
 </div>
 
-I'm a Junior Full Stack Developer, looking to help improve your organisation! I was  first introduced to the world of coding while working as a Pricing Analyst for an ethical energy company, and since then I've sought out opportunities to develop my skills further. I picked out the intense Makers Academy software development bootcamp, where I've dedicated the last few months to learning new skills and the best ways to code. Now that I've graduated, I'm excited to put what I've learnt to the test in the world of work, and keep building on it!  
+I'm a Junior Full Stack Developer, looking to help improve your organisation! My first coding experience came while working as a Pricing Analyst for an ethical energy company, and since then I've sought out opportunities to develop my skills further. I picked out the intense Makers Academy software development bootcamp, where I've dedicated the last few months to learning new skills and the best ways to code. Now that I've graduated, I'm excited to put what I've learnt to the test in the world of work, and keep building on it!  
 
 From my early days of VBA and SQL, through to building mobile apps using React Native, I've always enjoyed the challenge of picking up new technologies. I've worked extensively with SQL, Ruby and Javascript, including Rails, React Native and Node.js, as well as HTML, CSS and numerous testing frameworks. I'm focused on coding and working the right way, which in my eyes means OOP, comprehensive testing, version control with git & GitHub, collaborative working and supporting your peers.
 
@@ -27,9 +27,9 @@ From my early days of VBA and SQL, through to building mobile apps using React N
 
 #### Fast & Enthusiastic Learner
 
-I love learning new things - whether it be practical skills, information or random trivia. As soon as I learn something I want to put it into practice or share the information with someone.
+I love learning new things - whether it be practical skills, information or random trivia. As soon as I learn something I want to put it into practice or share the information with someone.  
+At Makers, I immersed myself in learning, picking up Ruby and Javascript from scatch, playing around with CSS and HTML, and made sure I kept a learning log of all the most important things I worked on.  
 When I worked at Bristol Energy, I went into the role not even knowing how Excel worked properly, but by the end I regularly offered my support to my colleagues with Excel, VBA and SQL (the three tools I spent most of my time with).
-Before starting the Makers Academy course, I taught myself some introductory Java.
 
 #### Logical Problem Solver
 
