@@ -26,18 +26,18 @@ I'm a junior full stack developer with a focus on doing things the right way - i
 **Makers Academy** (January - March 2021)  
 _Software Development Bootcamp_
 
-- An intense but very enjoyable 16 week software development course, with multiple group, pair, and individual projects.
-- Strong focus on collaborative working to produce clean, reusable code.
-- Mainly using Javascript & Ruby, including React Native, Node.js and Rails, picking all of these up from scratch.
-- Further coverage of databases, both relational (PostgreSQL) and non-relational (MongoDB).
-- Concentration on TDD using several testing frameworks - Jasmine, Jest, RSpec, Sinatra, Capybara.
+- An intense but very enjoyable 16 week software development course, with multiple group, pair, and individual projects
+- Strong focus on collaborative working to produce clean, reusable code
+- Mainly using Javascript & Ruby, including React Native, Node.js and Rails, picking all of these up from scratch
+- Further coverage of databases, both relational (PostgreSQL) and non-relational (MongoDB)
+- Concentration on TDD using several testing frameworks - Jasmine, Jest, RSpec, Sinatra, Capybara
 - Many best practices and principles covered, including OOP, RESTful routing, agile working and MVC pattern
 
 **Bristol Energy** (March 2017 - October 2020)  
 _Pricing Analyst/Senior Pricing Analyst_
 
-- Working for an ethical energy supplier, this is where I got my first taste of coding in SQL and VBA.
-- I managed and continually developed a complex Pricing Engine that supported pricing for all our customer types, built in an Excel front-end that housed a significant amount of VBA I was also responsible for. I spent a lot of my time developing SQL (using MS SQL Server) to interact with the pricing model and produce reporting and analysis for a range of key stakeholders.
+- Working for an ethical energy supplier, this is where I got my first taste of coding in SQL and VBA
+- I managed and continually developed a complex Pricing Engine that supported pricing for all our customer types, built in an Excel front-end that housed a significant amount of VBA I was also responsible for. I spent a lot of my time developing SQL (using MS SQL Server) to interact with the pricing model and produce reporting and analysis for a range of key stakeholders
 - I worked on developing a lot of new products for all the strands of our customer base, and worked with a range of colleagues on these. I learnt how useful proper planning and speccing is, as well as how to manage colleagues' expectations - what's possible, what's realistic, and what's worth it!
 
 
@@ -69,6 +69,7 @@ When encountering a problem - from small error messages to more complex interact
 ## Hobbies
 
 **Triathlon**  
-I'm currently in training for my first sprint triathlon so you may see me plodding the streets of Bristol or cycling the surrounding area on a bike twice my age.  
+I'm currently in training for my first sprint triathlon so you may see me plodding the streets of Bristol or cycling the surrounding area on a bike twice my age.   
+
 **Boardgames**  
 I'm a big fan of boardgames as well and have a reasonable collection of modern classics - Azul is the one I recommend most often.
