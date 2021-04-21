@@ -7,7 +7,9 @@
 
 </div>
 
-I'm a junior full stack developer with a focus on doing things the right way - in work, in code, and in my life. I recently graduated from the Makers Academy software development bootcamp, and I'm now ready to help improve your organisation! I've dedicated the last few months to learning new skills - including front & backend JS, Ruby, Rails - and the best ways to code - object oriented principles, TDD, git & Github, agile working - and now I'm excited to put those to the test in the world of work.
+I'm a Junior Full Stack Developer, looking to help improve your organisation! I was  first introduced to the world of coding while working as a Pricing Analyst for an ethical energy company, and since then I've sought out opportunities to develop my skills further. I picked out the intense Makers Academy software development bootcamp, where I've dedicated the last few months to learning new skills and the best ways to code. Now that I've graduated, I'm excited to put what I've learnt to the test in the world of work, and keep building on it!  
+
+From my early days of VBA and SQL, through to building mobile apps using React Native, I've always enjoyed the challenge of picking up new technologies. I've worked extensively with Ruby and Javascript, Rails, React Native, Node.js and numerous testing frameworks. I'm focused on coding and working the right way, which in my eyes means OOP, comprehensive testing, version control with git & GitHub, collaborative working and supporting your peers.
 
 <div align=center>
 <img src=https://github-readme-stats.vercel.app/api?username=hacaravan&show_icons=true&theme=tokyonight&hide=stars height=10% />
@@ -26,12 +28,13 @@ I'm a junior full stack developer with a focus on doing things the right way - i
 **Makers Academy** (January - March 2021)  
 _Software Development Bootcamp_
 
-- An intense but very enjoyable 16 week software development course, with multiple group, pair, and individual projects
-- Strong focus on collaborative working to produce clean, reusable code
-- Mainly using Javascript & Ruby, including React Native, Node.js and Rails, picking all of these up from scratch
-- Further coverage of databases, both relational (PostgreSQL) and non-relational (MongoDB)
-- Concentration on TDD using several testing frameworks - Jasmine, Jest, RSpec, Sinatra, Capybara
-- Many best practices and principles covered, including OOP, RESTful routing, agile working and MVC pattern
+- Collaborative working through multiple group & pair projects to produce clean, reusable code
+- Javascript & Ruby, including React Native, Node.js, jQuery and Rails
+- Self-led, language-agnostic learning
+- Relational (PostgreSQL) and non-relational (MongoDB) databases
+- TDD using several testing frameworks - Jasmine, Jest, RSpec, Sinatra, Capybara
+- OOP, RESTful routing, agile working and other best practices
+- Emotional Intelligence curriculum - communication, feedback, self-awareness, empathy
 
 **Bristol Energy** (March 2017 - October 2020)  
 _Pricing Analyst/Senior Pricing Analyst_
