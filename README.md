@@ -28,8 +28,8 @@ From my early days of VBA and SQL, through to building mobile apps using React N
 #### Fast & Enthusiastic Learner
 
 I love learning new things - whether it be practical skills, information or random trivia. As soon as I learn something I want to put it into practice or share the information with someone.  
-At Makers, I immersed myself in learning, picking up Ruby and Javascript from scatch, playing around with CSS and HTML, and made sure I kept a learning log of all the most important things I worked on.  
-When I worked at Bristol Energy, I went into the role not even knowing how Excel worked properly, but by the end I regularly offered my support to my colleagues with Excel, VBA and SQL (the three tools I spent most of my time with).
+At Makers, I immersed myself in learning, picking up numerous technologies and approaches from scratch, constantly testing my learning with projects, and making sure I kept a learning log of all the most important things I worked on.  
+When I worked at Bristol Energy, I went into the role not even knowing how Excel worked properly, but I soon picked them up and regularly offered support to my colleagues with Excel, VBA and SQL.
 
 #### Logical Problem Solver
 
