@@ -62,9 +62,8 @@ _Pricing Analyst/Senior Pricing Analyst_
 **Bristol University** (September 2013 - June 2016)  
 *BSc First Class Honours in Maths*
 
-- BSc (Hons) Mathematics
-- I achieved a First overall
-- I particularly focused on Pure Maths (number theory, group theory and set theory were some of my favourite modules)
+- Logical problem solving & breaking down problems
+- Attention to detail to ensure logically consistent proofs
 
 **A-Levels** (September 2011 - June 2013)
 - Maths (A\*), Further Maths (A\*), Chemistry (A\*), German (A)
