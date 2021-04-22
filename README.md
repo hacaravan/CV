@@ -20,9 +20,9 @@ From my early days of VBA and SQL, through to building mobile apps using React N
 
 | Name                         | Description       | Tech/tools        | Focus & Learning |
 | ---------------------------- | ----------------- | ----------------- | ---------------  |
-| [**don8**](https://github.com/JoshSinyor/don8) | A mobile app to connect charities with people who can help them. Post adverts with what your charity needs, and volunteers can see what you need, and where!  | MongoDB, Express, React Native, Node.js |
-| [**Spacebook**](https://fierce-plains-18412.herokuapp.com) | A space-themed 'clone' of Facebook. Sign up and scroll through the ether to see what your fellow explorers are saying. _In Spacebook, everyone can hear you scream_ | Ruby on Rails, JS, CSS, CI/CD using Travis, Postgres |
-[**Calculator**](https://github.com/hacaravan/calculator)  | A simple calculator to take sums as strings with a particular format and calculate the result, developed as part of a review of my process | Javascript, Jasmine | Focus on TDD, and building a future-proof tool
+| [**don8**](https://github.com/JoshSinyor/don8) | A mobile app to connect charities with people who can help them. Post adverts with what your charity needs, and volunteers can see what you need, and where!  | MongoDB, Express, React Native, Node.js | Building cross-platform, non-relational databases, prioritisation
+| [**Spacebook**](https://fierce-plains-18412.herokuapp.com) | A space-themed 'clone' of Facebook. Sign up and scroll through the ether to see what your fellow explorers are saying. _In Spacebook, everyone can hear you scream_ | Ruby on Rails, JS, CSS, CI/CD using Travis, Postgres | Launching for production, strong agile methodology with two-day sprints
+[**Calculator**](https://github.com/hacaravan/calculator)  | A simple calculator to take sums as strings with a particular format and calculate the result, developed as part of a review of my process | Javascript, Jasmine | Focus on TDD and building a future-proof tool
 
 ## Strengths
 
