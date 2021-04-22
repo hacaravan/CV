@@ -39,7 +39,7 @@ When encountering a problem - from small error messages to more complex interact
 
 #### Attention to Detail
 
-
+I've always had a keen eye for detail, and can often pick out a missing bracket, accidental capital or slightly misspelt function. This precision was important during my Maths degree in order to make sure proofs were logically consistent. Similarly, when I was working at Bristol Energy, I owned our cost stack, and introduced multiple checks and balances to ensure we were as accurate and up to date as possible.
 
 ## Experience
 
@@ -68,7 +68,7 @@ _Pricing Analyst/Senior Pricing Analyst_
 _Catering Assistant/Team Leader_
 
 - Coordinating efficient team efforts to provide best possible service and allow for quick turn around
-- Liaising between event organisers, kitchen and front-of-house staff
+- Liaising with customers to ensure events were set up as they intended
 
 ## Education
 
