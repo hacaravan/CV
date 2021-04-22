@@ -18,10 +18,11 @@ From my early days of VBA and SQL, through to building mobile apps using React N
 
 ## Projects
 
-| Name                         | Description       | Tech/tools        | Link
-| ---------------------------- | ----------------- | ----------------- |------
-| **don8** | A mobile app to connect charities with people who can help them. Post adverts with what your charity needs, and volunteers can see what you need, and where!  | MongoDB, Express, React Native, Node.js | [Github Repo](https://github.com/JoshSinyor/don8)
-| **Spacebook** | A space-themed 'clone' of Facebook. Sign up and scroll through the ether to see what your fellow explorers are saying. _In Spacebook, everyone can hear you scream_ | Ruby on Rails, JS, CSS, CI/CD using Travis, Postgres | [Github Repo](https://github.com/SalarGhotaslo/acebook-sholk), [hosted app](https://fierce-plains-18412.herokuapp.com)
+| Name                         | Description       | Tech/tools        | Focus & Learning |
+| ---------------------------- | ----------------- | ----------------- | ---------------  |
+| [**don8**](https://github.com/JoshSinyor/don8) | A mobile app to connect charities with people who can help them. Post adverts with what your charity needs, and volunteers can see what you need, and where!  | MongoDB, Express, React Native, Node.js |
+| [**Spacebook**](https://fierce-plains-18412.herokuapp.com) | A space-themed 'clone' of Facebook. Sign up and scroll through the ether to see what your fellow explorers are saying. _In Spacebook, everyone can hear you scream_ | Ruby on Rails, JS, CSS, CI/CD using Travis, Postgres |
+[**Calculator**](https://github.com/hacaravan/calculator)  | A simple calculator to take sums as strings with a particular format and calculate the result, developed as part of a review of my process | Javascript, Jasmine | Focus on TDD, and building a future-proof tool
 
 ## Strengths
 
@@ -35,6 +36,10 @@ When I worked at Bristol Energy, I went into the role not even knowing how Excel
 
 When encountering a problem - from small error messages to more complex interactions - I always try to approach it as logically as possible, to work out _how_ to solve it before diving into it. By thinking about _why_ something is or isn't working, I'm able to narrow down a larger problem to a much more specific one. This was noted in one of the external reviews I did while a Makers student, where the reviewer said:
 >You did a really good job with being able to read the important information in the backtrace and were able to identify where errors were occurring and what kind of error it was, this meant that for the most part you could interpret what the problem was by using that information and you did not try random changes to the code in order to fix the bugs.
+
+#### Attention to Detail
+
+
 
 ## Experience
 
