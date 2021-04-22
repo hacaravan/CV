@@ -56,13 +56,17 @@ _Pricing Analyst/Senior Pricing Analyst_
 - I managed and continually developed a complex Pricing Engine that supported pricing for all our customer types, built in an Excel front-end that housed a significant amount of VBA I was also responsible for. I spent a lot of my time developing SQL (using MS SQL Server) to interact with the pricing model and produce reporting and analysis for a range of key stakeholders
 - I worked on developing a lot of new products for all the strands of our customer base, and worked with a range of colleagues on these. I learnt how useful proper planning and speccing is, as well as how to manage colleagues' expectations - what's possible, what's realistic, and what's worth it!
 
+**Bristol Zoo** (July 2016 - March 2017)  
+_Catering Assistant/Team Leader_
+
+- Coordinating efficient team efforts to provide best possible service and allow for quick turn around
+- Liaising between event organisers, kitchen and front-of-house staff
 
 ## Education
 
 **Bristol University** (September 2013 - June 2016)  
 *BSc First Class Honours in Maths*
-
-- Logical problem solving & breaking down problems
+- Breaking down complex problems into smaller ones, particularly in the Pure Maths units I focused on
 - Attention to detail to ensure logically consistent proofs
 
 **A-Levels** (September 2011 - June 2013)
