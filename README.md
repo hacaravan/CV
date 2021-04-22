@@ -41,20 +41,23 @@ When encountering a problem - from small error messages to more complex interact
 **Makers Academy** (January - March 2021)  
 _Software Development Bootcamp_
 
-- Collaborative working through multiple group & pair projects to produce clean, reusable code
 - Javascript & Ruby, including React Native, Node.js, jQuery and Rails
 - Self-led, language-agnostic learning
+- Collaborative working through multiple group & pair projects to produce clean, reusable code
 - Relational (PostgreSQL) and non-relational (MongoDB) databases
 - TDD using several testing frameworks - Jasmine, Jest, RSpec, Sinatra, Capybara
 - OOP, RESTful routing, agile working and other best practices
-- Emotional Intelligence curriculum - communication, feedback, self-awareness, empathy
+- Emotional Intelligence, including communication, feedback, self-awareness and empathy
 
 **Bristol Energy** (March 2017 - October 2020)  
 _Pricing Analyst/Senior Pricing Analyst_
 
-- Working for an ethical energy supplier, this is where I got my first taste of coding in SQL and VBA
-- I managed and continually developed a complex Pricing Engine that supported pricing for all our customer types, built in an Excel front-end that housed a significant amount of VBA I was also responsible for. I spent a lot of my time developing SQL (using MS SQL Server) to interact with the pricing model and produce reporting and analysis for a range of key stakeholders
-- I worked on developing a lot of new products for all the strands of our customer base, and worked with a range of colleagues on these. I learnt how useful proper planning and speccing is, as well as how to manage colleagues' expectations - what's possible, what's realistic, and what's worth it!
+- Extensive database work in SQL Server
+- Continuous development of an existing Pricing Model using Excel and VBA
+- Integrating user front end with SQL Server database
+- Reporting and presenting commercial data to Senior Leadership Team
+- Prioritising workflow & managing colleague expectations for new and improved products
+- Accurate and timely updating of costs and regulatory factors
 
 **Bristol Zoo** (July 2016 - March 2017)  
 _Catering Assistant/Team Leader_
