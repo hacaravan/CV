@@ -9,7 +9,7 @@
 
 I'm a Junior Full Stack Developer, looking to help improve your organisation! My first coding experience came while working as a Pricing Analyst for an ethical energy company, and since then I've sought out opportunities to develop my skills further. I picked out the intense Makers Academy software development bootcamp, where I've dedicated the last few months to learning new skills and the best ways to code. Now that I've graduated, I'm excited to put what I've learnt to the test in the world of work, and keep building on it!  
 
-From my early days of VBA and SQL, through to building mobile apps using React Native, I've always enjoyed the challenge of picking up new technologies. I've worked extensively with SQL, Ruby and Javascript, including Rails, React Native and Node.js, as well as HTML, CSS and numerous testing frameworks. I'm focused on coding and working the right way, which in my eyes means OOP, comprehensive testing, version control with git & GitHub, collaborative working and supporting your peers.
+From my early days of VBA and SQL, through to building mobile apps using React Native, I've always enjoyed the challenge of picking up new technologies. I've worked extensively with SQL, Ruby and JavaScript, including Rails, React Native and Node.js, as well as HTML, CSS and numerous testing frameworks. I'm focused on coding and working the right way, which in my eyes means OOP, comprehensive testing, version control with git & GitHub, collaborative working and supporting your peers.
 
 <div align=center>
 <img src=https://github-readme-stats.vercel.app/api?username=hacaravan&show_icons=true&theme=tokyonight&hide=stars height=10% />
@@ -22,7 +22,7 @@ From my early days of VBA and SQL, through to building mobile apps using React N
 | ---------------------------- | ----------------- | ----------------- | ---------------  |
 | [**don8**](https://github.com/JoshSinyor/don8) | A mobile app to connect charities with people who can help them. Post adverts with what your charity needs, and volunteers can see what you need, and where!  | MongoDB, Express, React Native, Node.js | Building cross-platform, non-relational databases, prioritisation
 | [**Spacebook**](https://fierce-plains-18412.herokuapp.com) | A space-themed 'clone' of Facebook. Sign up and scroll through the ether to see what your fellow explorers are saying. _In Spacebook, everyone can hear you scream_ | Ruby on Rails, JS, CSS, CI/CD using Travis, Postgres | Launching for production, strong agile methodology with two-day sprints
-[**Calculator**](https://github.com/hacaravan/calculator)  | A simple calculator to take sums as strings with a particular format and calculate the result, developed as part of a review of my process | Javascript, Jasmine | Focus on TDD and building a future-proof tool
+[**Calculator**](https://github.com/hacaravan/calculator)  | A simple calculator to take sums as strings with a particular format and calculate the result, developed as part of a review of my process | JavaScript, Jasmine | Focus on TDD and building a future-proof tool
 
 ## Strengths
 
@@ -30,7 +30,6 @@ From my early days of VBA and SQL, through to building mobile apps using React N
 
 I love learning new things - whether it be practical skills, information or random trivia. As soon as I learn something I want to put it into practice or share the information with someone.  
 At Makers, I immersed myself in learning, picking up numerous technologies and approaches from scratch, constantly testing my learning with projects, and making sure I kept a learning log of all the most important things I worked on.  
-When I worked at Bristol Energy, I went into the role not even knowing how Excel worked properly, but I soon picked them up and regularly offered support to my colleagues with Excel, VBA and SQL.
 
 #### Logical Problem Solver
 
@@ -41,12 +40,16 @@ When encountering a problem - from small error messages to more complex interact
 
 I've always had a keen eye for detail, and can often pick out a missing bracket, accidental capital or slightly misspelt function. This precision was important during my Maths degree in order to make sure proofs were logically consistent. Similarly, when I was working at Bristol Energy, I owned our cost stack, and introduced multiple checks and balances to ensure we were as accurate and up to date as possible.
 
+### Collaborative Working
+
+I enjoy finding ways to work with different people and I have plenty of experience of coding with others. Through multiple self-led group projects and daily pair coding on the Makers Academy course, I developed the way I work with different people and tailored my approach to their preferences. When I was at Bristol Energy, I led a significant project to create new products with varying levels of 'greenness', collaborating with the Sales, Forecasting, Trading and Regulation teams, amongst others.
+
 ## Experience
 
 **Makers Academy** (January - March 2021)  
 _Software Development Bootcamp_
 
-- Javascript & Ruby, including React Native, Node.js, jQuery and Rails
+- JavaScript & Ruby, including React Native, Node.js, jQuery and Rails
 - Self-led, language-agnostic learning
 - Collaborative working through multiple group & pair projects to produce clean, reusable code
 - Relational (PostgreSQL) and non-relational (MongoDB) databases
