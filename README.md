@@ -40,7 +40,7 @@ When encountering a problem - from small error messages to more complex interact
 
 I've always had a keen eye for detail, and can often pick out a missing bracket, accidental capital or slightly misspelt function. This precision was important during my Maths degree in order to make sure proofs were logically consistent. Similarly, when I was working at Bristol Energy, I owned our cost stack, and introduced multiple checks and balances to ensure we were as accurate and up to date as possible.
 
-### Collaborative Working
+#### Collaborative Working
 
 I enjoy finding ways to work with different people and I have plenty of experience of coding with others. Through multiple self-led group projects and daily pair coding on the Makers Academy course, I developed the way I work with different people and tailored my approach to their preferences. When I was at Bristol Energy, I led a significant project to create new products with varying levels of 'greenness', collaborating with the Sales, Forecasting, Trading and Regulation teams, amongst others.
 
